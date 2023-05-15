@@ -1,6 +1,6 @@
 package com_haothink_interview
 
-// 1 4 6 8
+// TreeNode 1 4 6 8
 type TreeNode struct {
 	Val   int
 	Left  *TreeNode
